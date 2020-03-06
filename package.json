@@ -12,10 +12,17 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.15.24",
-    "gatsby-plugin-commercelayer": "^1.2.7",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "gatsby": "^2.19.30",
+    "gatsby-plugin-commercelayer": "^1.2.10",
+    "gatsby-plugin-manifest": "^2.2.42",
+    "gatsby-plugin-offline": "^3.0.35",
+    "gatsby-plugin-react-helmet": "^3.1.22",
+    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-source-filesystem": "^2.1.48",
+    "gatsby-transformer-sharp": "^2.3.16",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-helmet": "^5.2.1"
   },
   "repository": {
     "type": "git",
